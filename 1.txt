@@ -1,2 +1,4 @@
 Hello~
 This is test 1~
+Bye~
+What's the difference?
