@@ -7,3 +7,5 @@ we're testing feature1
 Git use branch~
 we're testing feature1
 >>>>>>> feature1
+
+test --no--ff
