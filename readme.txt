@@ -9,3 +9,5 @@ we're testing feature1
 >>>>>>> feature1
 
 test --no--ff
+
+fix bug
