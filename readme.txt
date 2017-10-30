@@ -1,3 +1,4 @@
 Git is powerful~
 I do love Git ~
-Git use branch~
+Git use branch
+we're testing feature1
