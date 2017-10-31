@@ -9,6 +9,10 @@ we're testing feature1
 >>>>>>> feature1
 
 test --no--ff
+<<<<<<< HEAD
 test stash
 
-dev is wrong and test failed
+=======
+
+fix bug
+>>>>>>> 13a671b37245ddffcee3def50566a62782739041
