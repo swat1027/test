@@ -9,3 +9,6 @@ we're testing feature1
 >>>>>>> feature1
 
 test --no--ff
+test stash
+
+dev is wrong and test failed
